@@ -58,35 +58,19 @@ print (x)
 # In[34]:
 
 x = 3
-print(x
-    )
-
-
-# In[35]:
-
+print(x)
 
 x = 3 * 5
 print (x)
 
-
-# In[36]:
-
-
 y = x / 3
 print (y)
-
-
-# In[38]:
 
 pizza = 5 
 print(pizza)
 
-# In[39]:
-
 y = pizza * 2
 print(y)
-
-# In[41]:
 
 z = y / 5
 print (x)
@@ -97,9 +81,8 @@ w = z + 3
 print (w)
 
 # In[47]:
-
 pizza = 5
-number_eaten = 2000000000000000000000
+number_eaten = 20
 x = pizza * number_eaten
 print(x)
 
@@ -397,8 +380,3 @@ for number in sales:
         print(number/2)
     else:
         print("Not a float")
-
-
-
-
-
