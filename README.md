@@ -1,4 +1,4 @@
-* Python-Practice 1
+* Python Practice 
 
 * Basic python functions and syntax.
 
